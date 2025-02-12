@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Detection using Deep Learning
+# 🧠 Brain Tumor Classification using Deep Learning
 
 This project focuses on detecting brain tumors using deep learning, leveraging **ResNet-101** for accurate classification of MRI images into four categories: **Glioma Tumor, Meningioma Tumor, Pituitary Tumor, and Normal**.
 
